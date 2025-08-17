@@ -30,7 +30,7 @@ Projects Included
 
 Clone the repository:
 
-git clone <YOUR_REPO_URL> Python-Projects-Portfolio
+git clone https://github.com/Samarasimha27/100-Days-of-code-Projects Python-Projects-Portfolio
 cd Python-Projects-Portfolio
 
 
